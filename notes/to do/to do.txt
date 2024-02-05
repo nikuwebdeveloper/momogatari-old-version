@@ -1,0 +1,18 @@
+RPG
+X talk to NPC
+X- pause menu
+	-abilities
+	-upgrades
+- shop
+X run
+X get quest
+X inventory object
+
+ammo	fire-rate	lives	capture-balls	luck
+beam	pierce		maru-level	sprint-speed	limit	
+
+SHMUP
+
+Bugs
+X When talking to robot after both quests are over, he only has one page of texts when he should have three pages
+X Robot doesn't remove quest text after his quest is over?

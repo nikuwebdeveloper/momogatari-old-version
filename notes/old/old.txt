@@ -1,0 +1,101 @@
+to do:
+
+
+do later:
+-blue laser dissappears after hitting shield
+-shadow peeks out when you walk behind a wall
+-door corner graphics
+-left side won't let you make shoot sounds
+
+to do:
+
+DO NOW:
+
+
+
+MINOR:
+
+background for title screen
+animate screens
+various workshop items
+words on ground
+vary screens
+new people for bridge crew pilots
+map terminal interface
+eyedra makes goo even after death
+Pool table (?)
+info console in Pop's room
+fix medical beds
+add bacta tanks in medical room + another room
+finish church
+finish black lines
+ground signs
+tip of ship
+NIGHTS MODE!?
+
+
+MAJOR:
+
+START MENU
+X four tabs - Abilities, Upgrades, Personality, Inventory, Options
+
+MISSION READOUT
+Kills, secrets, time
+
+QUESTS + Inventory
+find items from quests, take them to machine, spit them out,
+lance and jessie turn them into abilites
+
+INFO TERMINAL
+Pop's room
+
+HINTS
+Slop and Yan
+
+ADVICE
+Fr. Ralph
+
+ABILITIES - science lab - Feed to machine, lance and jessie turn it into something
+
+SHMUP sprint
+Capture ball - capture non-upgrade enemies
+Hold two powerups
+super weapon
+charge shot - big beam
+Maru - calling card
+Expell ammo to use super attack
+scanner(?) for post-screen
+
+pet that has a railgun that shoots sometimes
+
+UPGRADES - Shiro
+
+X Max ammo
+X Fire rate
+X Max Momos
+X Max Capture ball - capture non-upgrade enemies
+X point increaser
+X laser time
+
+X PERSONALITY + improvements
+X CUTE - good for everyone else
+X ANGRY - good for angry npcs
+X SMART - good for smart npcs
+
+MOMOS ROOM
+Cydunce
+peach pillow
+stuffed aliens trophies
+screen
+
+SERVER ROOM
+Data management- SAVE LOAD
+special music for save room
+
+mutators, speed, size
+end screen - medals
+
+Jessie says Jessie should say "I don't want to work. I just want to play video games"
+janitor
+
+coin blocks for points

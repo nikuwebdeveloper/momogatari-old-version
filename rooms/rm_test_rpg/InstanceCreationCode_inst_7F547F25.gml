@@ -1,0 +1,2 @@
+isMoving = true
+moveStyle = "random"
